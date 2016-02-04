@@ -99,7 +99,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:weupagency/sails-angular2-isomorphic.git"
+    "url": "git://github.com/weupagency/sails-angular2-isomorphic.git"
   },
   "license": "MIT",
   "bugs": {
