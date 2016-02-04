@@ -1,7 +1,7 @@
 {
   "name": "sails-angular2-isomorphic",
   "author": "WeUp Agency, based on Mike McNeil <@mikermcneil> sails.js",
-  "version": "0.12.0-rc9",
+  "version": "1.0.0",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io), associated with angular2 using server rendering to have a powerful fullstack framework.",
   "homepage": "http://sailsjs.org",
   "keywords": [
